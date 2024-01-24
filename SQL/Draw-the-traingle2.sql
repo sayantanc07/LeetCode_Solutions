@@ -4,7 +4,7 @@
 * * * * 
 * * * * *
 
-/*P(R) represents a pattern drawn by Julia in R rows. The following pattern represents P(5): Draw 20)*/
+/*P(R) represents a pattern drawn by Julia in R rows. The following pattern represents P(5): Draw P(20)*/
 
 /*Solution*/
   
